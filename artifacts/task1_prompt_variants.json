@@ -1,0 +1,162 @@
+[
+  {
+    "config": "rto_prompt_A_skeleton(bad or good)",
+    "dataset": "Rotten Tomatoes",
+    "split": "validation",
+    "num_labels": 2,
+    "accuracy": 0.549718574108818,
+    "f1": 0.5275590551181103,
+    "prompt": "Is this movie bad or good? This movie is ",
+    "inference_time_sec": 1.01
+  },
+  {
+    "config": "rto_prompt_A_skeleton(bad or good)",
+    "dataset": "Rotten Tomatoes",
+    "split": "test",
+    "num_labels": 2,
+    "accuracy": 0.5403377110694184,
+    "f1": 0.5233463035019456,
+    "prompt": "Is this movie bad or good? This movie is ",
+    "inference_time_sec": 1.04
+  },
+  {
+    "config": "rto_prompt_B_swapped_order(good or bad)",
+    "dataset": "Rotten Tomatoes",
+    "split": "validation",
+    "num_labels": 2,
+    "accuracy": 0.5684803001876173,
+    "f1": 0.6095076400679118,
+    "prompt": "Is this movie good or bad? This movie is ",
+    "inference_time_sec": 1.32
+  },
+  {
+    "config": "rto_prompt_B_swapped_order(good or bad)",
+    "dataset": "Rotten Tomatoes",
+    "split": "test",
+    "num_labels": 2,
+    "accuracy": 0.575984990619137,
+    "f1": 0.6245847176079734,
+    "prompt": "Is this movie good or bad? This movie is ",
+    "inference_time_sec": 1.03
+  },
+  {
+    "config": "rto_prompt_C_negative_or_positive",
+    "dataset": "Rotten Tomatoes",
+    "split": "validation",
+    "num_labels": 2,
+    "accuracy": 0.5300187617260788,
+    "f1": 0.5554569653948536,
+    "prompt": "Question: Is the sentiment of this movie review negative or positive? Answer: The sentiment is ",
+    "inference_time_sec": 1.12
+  },
+  {
+    "config": "rto_prompt_C_negative_or_positive",
+    "dataset": "Rotten Tomatoes",
+    "split": "test",
+    "num_labels": 2,
+    "accuracy": 0.5103189493433395,
+    "f1": 0.5476603119584056,
+    "prompt": "Question: Is the sentiment of this movie review negative or positive? Answer: The sentiment is ",
+    "inference_time_sec": 1.19
+  },
+  {
+    "config": "rto_prompt_D_minimal",
+    "dataset": "Rotten Tomatoes",
+    "split": "validation",
+    "num_labels": 2,
+    "accuracy": 0.5544090056285178,
+    "f1": 0.5437079731027857,
+    "prompt": "Overall, this movie is ",
+    "inference_time_sec": 0.95
+  },
+  {
+    "config": "rto_prompt_D_minimal",
+    "dataset": "Rotten Tomatoes",
+    "split": "test",
+    "num_labels": 2,
+    "accuracy": 0.549718574108818,
+    "f1": 0.5463137996219282,
+    "prompt": "Overall, this movie is ",
+    "inference_time_sec": 0.97
+  },
+  {
+    "config": "sst5_prompt_A_skeleton(awful..excellent on 'text')",
+    "dataset": "SST-5",
+    "split": "validation",
+    "num_labels": 5,
+    "accuracy": 0.16257947320617622,
+    "f1": 0.10336610117257865,
+    "prompt": "Is this text awful, bad, average, good, or excellent? This text is ",
+    "inference_time_sec": 1.09
+  },
+  {
+    "config": "sst5_prompt_A_skeleton(awful..excellent on 'text')",
+    "dataset": "SST-5",
+    "split": "test",
+    "num_labels": 5,
+    "accuracy": 0.18461538461538463,
+    "f1": 0.11723652527333843,
+    "prompt": "Is this text awful, bad, average, good, or excellent? This text is ",
+    "inference_time_sec": 2.28
+  },
+  {
+    "config": "sst5_prompt_B_movie_review_wording",
+    "dataset": "SST-5",
+    "split": "validation",
+    "num_labels": 5,
+    "accuracy": 0.1371480472297911,
+    "f1": 0.07745946617745972,
+    "prompt": "Is this movie review awful, bad, average, good, or excellent? This movie review is ",
+    "inference_time_sec": 1.15
+  },
+  {
+    "config": "sst5_prompt_B_movie_review_wording",
+    "dataset": "SST-5",
+    "split": "test",
+    "num_labels": 5,
+    "accuracy": 0.13755656108597286,
+    "f1": 0.07746901019554828,
+    "prompt": "Is this movie review awful, bad, average, good, or excellent? This movie review is ",
+    "inference_time_sec": 2.37
+  },
+  {
+    "config": "sst5_prompt_C_reversed_order",
+    "dataset": "SST-5",
+    "split": "validation",
+    "num_labels": 5,
+    "accuracy": 0.15985467756584923,
+    "f1": 0.10603244379883707,
+    "prompt": "Is this text excellent, good, average, bad, or awful? This text is ",
+    "inference_time_sec": 1.11
+  },
+  {
+    "config": "sst5_prompt_C_reversed_order",
+    "dataset": "SST-5",
+    "split": "test",
+    "num_labels": 5,
+    "accuracy": 0.17873303167420815,
+    "f1": 0.11807210518744352,
+    "prompt": "Is this text excellent, good, average, bad, or awful? This text is ",
+    "inference_time_sec": 2.5
+  },
+  {
+    "config": "sst5_prompt_D_rating_question",
+    "dataset": "SST-5",
+    "split": "validation",
+    "num_labels": 5,
+    "accuracy": 0.1344232515894641,
+    "f1": 0.07000947157426375,
+    "prompt": "Question: How would you rate this movie review? Answer: It is ",
+    "inference_time_sec": 1.09
+  },
+  {
+    "config": "sst5_prompt_D_rating_question",
+    "dataset": "SST-5",
+    "split": "test",
+    "num_labels": 5,
+    "accuracy": 0.14027149321266968,
+    "f1": 0.0762324203660042,
+    "prompt": "Question: How would you rate this movie review? Answer: It is ",
+    "inference_time_sec": 2.22
+  }
+]

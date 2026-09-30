@@ -1,0 +1,301 @@
+split,index,text,gold_label,gold_name,pred_label,pred_name
+validation,0,"in his first stab at the form , jacquot takes a slightly anarchic approach that works only sporadically .",2,average,4,excellent
+validation,1,one long string of cliches .,1,bad,0,awful
+validation,2,"if you 've ever entertained the notion of doing what the title of this film implies , what sex with strangers actually shows may put you off the idea forever .",1,bad,0,awful
+validation,3,k-19 exploits our substantial collective fear of nuclear holocaust to generate cheap hollywood tension .,0,awful,4,excellent
+validation,4,"it 's played in the most straight-faced fashion , with little humor to lighten things up .",1,bad,0,awful
+validation,5,"there is a fabric of complex ideas here , and feelings that profoundly deepen them .",3,good,0,awful
+validation,6,"it may seem long at 110 minutes if you 're not a fan , because it includes segments of 12 songs at a reunion concert .",2,average,4,excellent
+validation,7,"while the stoically delivered hokum of hart 's war is never fun , it 's still a worthy addition to the growing canon of post-saving private ryan tributes to the greatest generation .",2,average,4,excellent
+validation,8,"although laced with humor and a few fanciful touches , the film is a refreshingly serious look at young women .",3,good,4,excellent
+validation,10,it 's a stunning lyrical work of considerable force and truth .,3,good,0,awful
+validation,11,exists then as an occasionally insightful acting exercise .,2,average,0,awful
+validation,12,"however it may please those who love movies that blare with pop songs , young science fiction fans will stomp away in disgust .",1,bad,0,awful
+validation,13,broomfield turns his distinctive ` blundering ' style into something that could really help clear up the case .,3,good,4,excellent
+validation,14,a mess when it comes to the characters and writing ... but works its way underneath the skin like few movies have in recent memory .,2,average,0,awful
+validation,15,"although german cooking does not come readily to mind when considering the world 's best cuisine , mostly martha could make deutchland a popular destination for hungry tourists .",3,good,4,excellent
+validation,16,"a very well-made , funny and entertaining picture .",4,excellent,0,awful
+validation,17,` they ' begins and ends with scenes so terrifying i 'm still stunned .,2,average,4,excellent
+validation,18,"a perplexing example of promise unfulfilled , despite many charming moments .",2,average,0,awful
+validation,19,a valueless kiddie paean to pro basketball underwritten by the nba .,1,bad,0,awful
+validation,20,smith is careful not to make fun of these curious owners of architectural oddities .,2,average,0,awful
+validation,21,"all the amped-up tony hawk-style stunts and thrashing rap-metal ca n't disguise the fact that , really , we 've been here , done that .",1,bad,0,awful
+validation,22,"a swashbuckling tale of love , betrayal , revenge and above all , faith .",3,good,0,awful
+validation,23,"not a film to rival to live , but a fine little amuse-bouche to keep your appetite whetted .",2,average,4,excellent
+validation,25,a rigorously structured and exquisitely filmed drama about a father and son connection that is a brief shooting star of love .,3,good,4,excellent
+validation,26,"on this tricky topic , tadpole is very much a step in the right direction , with its blend of frankness , civility and compassion .",4,excellent,0,awful
+validation,27,"macdowell , whose wifty southern charm has anchored lighter affairs ... brings an absolutely riveting conviction to her role .",3,good,0,awful
+validation,28,"the jabs it employs are short , carefully placed and dead-center .",3,good,4,excellent
+validation,29,"despite its title , punch-drunk love is never heavy-handed .",3,good,4,excellent
+validation,30,at once half-baked and overheated .,1,bad,0,awful
+validation,32,"... a good , if not entirely fresh , look at war .",2,average,0,awful
+validation,33,"jason x is positively anti-darwinian : nine sequels and 400 years later , the teens are none the wiser and jason still kills on auto-pilot .",1,bad,4,excellent
+validation,34,people cinema at its finest .,4,excellent,0,awful
+validation,36,"if you believe any of this , i can make you a real deal on leftover enron stock that will double in value a week from friday .",1,bad,0,awful
+validation,38,"its maker , steven spielberg , has n't had so much fun in two decades , since he was schlepping indiana jones around the globe in search of a giant misplaced ashtray .",2,average,0,awful
+validation,40,it offers little beyond the momentary joys of pretty and weightless intellectual entertainment .,1,bad,0,awful
+validation,42,coughs and sputters on its own postmodern conceit .,1,bad,0,awful
+validation,43,"with virtually no interesting elements for an audience to focus on , chelsea walls is a triple-espresso endurance challenge .",1,bad,4,excellent
+validation,44,lovely and poignant .,4,excellent,0,awful
+validation,45,"at times , the suspense is palpable , but by the end there 's a sense that the crux of the mystery hinges on a technicality that strains credulity and leaves the viewer haunted by the waste of potential .",1,bad,0,awful
+validation,46,"and just when you think it ca n't get any more gay , in pops nathan lane .",2,average,0,awful
+validation,47,... a boring parade of talking heads and technical gibberish that will do little to advance the linux cause .,1,bad,0,awful
+validation,49,van wilder brings a whole new meaning to the phrase ` comedy gag . ',2,average,4,excellent
+validation,50,american chai encourages rueful laughter at stereotypes only an indian-american would recognize .,1,bad,4,excellent
+validation,52,exactly what it claims to be -- a simple diversion for the kids .,2,average,0,awful
+validation,53,directed in a paint-by-numbers manner .,1,bad,0,awful
+validation,54,"the movie is dawn of the dead crossed with john carpenter 's ghosts of mars , with zombies not as ghoulish as the first and trains not as big as the second .",1,bad,4,excellent
+validation,55,detox is ultimately a pointless endeavor .,1,bad,0,awful
+validation,56,"i have no way of knowing exactly how much is exaggeration , but i 've got a creepy feeling that the film is closer to the mark than i want to believe .",2,average,4,excellent
+validation,57,"despite all evidence to the contrary , this clunker has somehow managed to pose as an actual feature movie , the kind that charges full admission and gets hyped on tv and purports to amuse small children and ostensible adults .",1,bad,4,excellent
+validation,58,huppert 's superbly controlled display of murderous vulnerability ensures that malice has a very human face .,2,average,4,excellent
+validation,60,i just loved every minute of this film .,4,excellent,3,good
+validation,61,"the film contains no good jokes , no good scenes , barely a moment when carvey 's saturday night live-honed mimicry rises above the level of embarrassment .",1,bad,0,awful
+validation,62,to say this was done better in wilder 's some like it hot is like saying the sun rises in the east .,1,bad,4,excellent
+validation,63,"the longer the movie goes , the worse it gets , but it 's actually pretty good in the first few minutes .",1,bad,4,excellent
+validation,64,they should have called it gutterball .,1,bad,0,awful
+validation,65,-lrb- majidi -rrb- makes us think twice about immigrants we see around us every day .,2,average,4,excellent
+validation,66,it 's a bit disappointing that it only manages to be decent instead of dead brilliant .,1,bad,0,awful
+validation,67,that 's a cheat .,1,bad,4,excellent
+validation,68,"the title not only describes its main characters , but the lazy people behind the camera as well .",1,bad,0,awful
+validation,70,may reawaken discussion of the kennedy assassination but this fictional film looks made for cable rather than for the big screen .,1,bad,0,awful
+validation,71,taylor appears to have blown his entire budget on soundtrack rights and had nothing left over for jokes .,0,awful,4,excellent
+validation,72,i am sorry that i was unable to get the full brunt of the comedy .,1,bad,0,awful
+validation,73,the movie fails to live up to the sum of its parts .,1,bad,0,awful
+validation,74,"it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface .",1,bad,0,awful
+validation,75,... think of it as american pie on valium .,2,average,0,awful
+validation,76,"the film takes the materials of human tragedy and dresses them in lovely costumes , southern california locations and star power .",2,average,0,awful
+validation,77,this directorial debut from music video show-off higuchinsky is all flash .,2,average,0,awful
+validation,79,"all in all , the count of monte cristo is okay , but it is surely no classic , like the novel upon which it is based .",2,average,0,awful
+validation,80,"for anyone unfamiliar with pentacostal practices in general and theatrical phenomenon of hell houses in particular , it 's an eye-opener .",3,good,0,awful
+validation,82,new best friend 's playboy-mansion presentation of college life is laugh-out-loud ludicrous .,2,average,4,excellent
+validation,83,there 's a wickedly subversive bent to the best parts of birthday girl .,3,good,0,awful
+validation,84,"not for the prurient or squeamish , it 's a daring if overlong examination of an idolized culture , self-loathing and sexual politics .",2,average,4,excellent
+validation,85,"while locals will get a kick out of spotting cleveland sites , the rest of the world will enjoy a fast-paced comedy with quirks that might make the award-winning coen brothers envious .",3,good,4,excellent
+validation,86,"while -lrb- hill -rrb- has learned new tricks , the tricks alone are not enough to salvage this lifeless boxing film .",1,bad,0,awful
+validation,87,"this is the sort of burly action flick where one coincidence pummels another , narrative necessity is a drunken roundhouse , and whatever passes for logic is a factor of the last plot device left standing .",1,bad,4,excellent
+validation,88,"the director knows how to apply textural gloss , but his portrait of sex-as-war is strictly sitcom .",1,bad,4,excellent
+validation,90,"dazzling in its complexity , disturbing for its extraordinary themes , the piano teacher is a film that defies categorisation .",4,excellent,0,awful
+validation,91,"makes for some truly odd , at times confusing , kids entertainment ... but at least this time there 's some centered storytelling to go along with all the weird stuff .",2,average,4,excellent
+validation,92,"apart from dazzling cinematography , we 've seen just about everything in blue crush in one form or the other .",2,average,0,awful
+validation,93,over age 15 ?,2,average,4,excellent
+validation,94,"an exhilarating futuristic thriller-noir , minority report twists the best of technology around a gripping story , delivering a riveting , pulse intensifying escapist adventure of the first order",4,excellent,0,awful
+validation,95,"this film seems thirsty for reflection , itself taking on adolescent qualities .",1,bad,0,awful
+validation,96,this disturbing bio-pic is hard to forget .,2,average,0,awful
+validation,97,"from the opening scenes , it 's clear that all about the benjamins is a totally formulaic movie .",1,bad,0,awful
+validation,98,it has all the excitement of eating oatmeal .,1,bad,0,awful
+validation,99,"the most hopelessly monotonous film of the year , noteworthy only for the gimmick of being filmed as a single unbroken 87-minute take .",0,awful,4,excellent
+validation,100,it all adds up to good fun .,3,good,0,awful
+validation,101,`` the time machine '' is a movie that has no interest in itself .,0,awful,4,excellent
+validation,102,"unfortunately , it appears that -lrb- jackie -rrb- chan 's us influence is starting to show in his hong kong films .",2,average,0,awful
+validation,103,"something akin to a japanese alice through the looking glass , except that it seems to take itself far more seriously .",3,good,4,excellent
+validation,106,a coarse and stupid gross-out .,1,bad,0,awful
+validation,107,cool ?,3,good,0,awful
+validation,108,the film tunes into a grief that could lead a man across centuries .,3,good,0,awful
+validation,109,a string of rehashed sight gags based in insipid vulgarity .,1,bad,0,awful
+validation,110,"the weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough .",3,good,0,awful
+validation,111,it appears that something has been lost in the translation to the screen .,1,bad,0,awful
+validation,112,the second coming of harry potter is a film far superior to its predecessor .,4,excellent,0,awful
+validation,113,when leguizamo finally plugged an irritating character late in the movie .,1,bad,0,awful
+validation,114,"to my taste , the film 's comic characters come perilously close to being amoses and andys for a new generation .",2,average,0,awful
+validation,116,"despite the 2-d animation , the wild thornberrys movie makes for a surprisingly cinematic experience .",3,good,4,excellent
+validation,117,uses high comedy to evoke surprising poignance .,4,excellent,0,awful
+validation,118,socrates motions for hemlock .,2,average,4,excellent
+validation,119,"the movie is what happens when you blow up small potatoes to 10 times their natural size , and it ai n't pretty .",0,awful,4,excellent
+validation,120,an infectious cultural fable with a tasty balance of family drama and frenetic comedy .,3,good,4,excellent
+validation,122,feels too formulaic and too familiar to produce the transgressive thrills of early underground work .,1,bad,0,awful
+validation,123,"a celebration of quirkiness , eccentricity , and certain individuals ' tendency to let it all hang out , and damn the consequences .",3,good,0,awful
+validation,124,"awesome creatures , breathtaking scenery , and epic battle scenes add up to another ` spectacular spectacle . '",4,excellent,0,awful
+validation,126,"neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula .",3,good,4,excellent
+validation,127,"by the miserable standards to which the slasher genre has sunk , ... actually pretty good .",2,average,4,excellent
+validation,128,"seldahl 's barbara is a precise and moving portrait of someone whose world is turned upside down , first by passion and then by illness .",3,good,4,excellent
+validation,129,filmmakers who can deftly change moods are treasures and even marvels .,4,excellent,0,awful
+validation,130,"what 's surprising about full frontal is that despite its overt self-awareness , parts of the movie still manage to break past the artifice and thoroughly engage you .",3,good,4,excellent
+validation,131,"it 's a scattershot affair , but when it hits its mark it 's brilliant .",3,good,4,excellent
+validation,132,"it kinda works and qualifies as cool at times , but is just too lame to work or be cool at others .",2,average,0,awful
+validation,133,"open-minded kids -- kids who read , kids who dream -- will be comforted by the way it deals with big issues like death and destiny .",2,average,4,excellent
+validation,134,better to just call it abc kiarostami .,2,average,0,awful
+validation,135,"just as moving , uplifting and funny as ever .",3,good,4,excellent
+validation,136,the wild thornberrys movie is a jolly surprise .,3,good,0,awful
+validation,137,"exquisitely nuanced in mood tics and dialogue , this chamber drama is superbly acted by the deeply appealing veteran bouquet and the chilling but quite human berling .",4,excellent,0,awful
+validation,138,this movie is maddening .,1,bad,0,awful
+validation,141,another in-your-face wallow in the lower depths made by people who have never sung those blues .,1,bad,4,excellent
+validation,142,"that dogged good will of the parents and ` vain ' jia 's defoliation of ego , make the film touching despite some doldrums .",3,good,4,excellent
+validation,143,more concerned with sade 's ideas than with his actions .,2,average,0,awful
+validation,144,allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker .,3,good,0,awful
+validation,145,one of the most significant moviegoing pleasures of the year .,4,excellent,0,awful
+validation,146,"an occasionally funny , but overall limp , fish-out-of-water story .",1,bad,0,awful
+validation,147,"what the film lacks in general focus it makes up for in compassion , as corcuera manages to find the seeds of hope in the form of collective action .",3,good,4,excellent
+validation,148,but it could have been worse .,1,bad,0,awful
+validation,149,a wildly inconsistent emotional experience .,1,bad,3,good
+validation,151,"we root for -lrb- clara and paul -rrb- , even like them , though perhaps it 's an emotion closer to pity .",3,good,4,excellent
+validation,153,"you wo n't like roger , but you will quickly recognize him .",1,bad,4,excellent
+validation,154,"delivers the same old same old , tarted up with latin flava and turned out by hollywood playas .",1,bad,4,excellent
+validation,155,"for starters , the story is just too slim .",1,bad,0,awful
+validation,156,"the vintage is pure ' 87 , with a halfhearted twist on its cautionary message : fatal attraction = do n't have an affair with a nutjob ; unfaithful = do n't if you 're married to one .",2,average,4,excellent
+validation,157,"half submarine flick , half ghost story , all in one criminally neglected film",2,average,0,awful
+validation,158,"the x potion gives the quickly named blossom , bubbles and buttercup supernatural powers that include extraordinary strength and laser-beam eyes , which unfortunately do n't enable them to discern flimsy screenplays .",1,bad,4,excellent
+validation,160,"an overemphatic , would-be wacky , ultimately tedious sex farce .",1,bad,4,excellent
+validation,161,"\/ but daphne , you 're too buff \/ fred thinks he 's tough \/ and velma - wow , you 've lost weight !",1,bad,4,excellent
+validation,162,the kind of spectacularly misconceived enterprise that only a sophisticated cinephile could have perpetrated .,2,average,0,awful
+validation,164,the piquant story needs more dramatic meat on its bones .,1,bad,0,awful
+validation,165,"a difficult , absorbing film that manages to convey more substance despite its repetitions and inconsistencies than do most films than are far more pointed and clear .",3,good,4,excellent
+validation,166,an unwise amalgam of broadcast news and vibes .,1,bad,0,awful
+validation,169,"a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution .",3,good,0,awful
+validation,170,fancy a real downer ?,1,bad,0,awful
+validation,171,a painfully funny ode to bad behavior .,3,good,0,awful
+validation,175,the fly-on-the-wall method used to document rural french school life is a refreshing departure from the now more prevalent technique of the docu-makers being a visible part of their work .,3,good,0,awful
+validation,176,it 's just filler .,1,bad,0,awful
+validation,177,a deep and meaningful film .,4,excellent,0,awful
+validation,178,"sit through this one , and you wo n't need a magic watch to stop time ; your dvd player will do it for you .",1,bad,4,excellent
+validation,179,holden caulfield did it better .,1,bad,0,awful
+validation,180,"the action switches between past and present , but the material link is too tenuous to anchor the emotional connections that purport to span a 125-year divide .",1,bad,4,excellent
+validation,182,"... brian de palma is utterly mad : cinema mad , set-piece mad , style mad .",2,average,4,excellent
+validation,183,nothing more substantial than a fitfully clever doodle .,2,average,0,awful
+validation,185,while much of the cast has charm -- especially allodi and nolden -- the performers are sunk by the film 's primitive approach to the mechanics of comedy .,2,average,4,excellent
+validation,188,"-lrb- t -rrb- here 's only so much anyone can do with a florid , overplotted , anne rice rock 'n' roll vampire novel before the built-in silliness of the whole affair defeats them .",0,awful,4,excellent
+validation,189,"if the movie succeeds in instilling a wary sense of ` there but for the grace of god , ' it is far too self-conscious to draw you deeply into its world .",1,bad,4,excellent
+validation,190,"you wo n't miss its messages , but you 'll be entertained as well .",2,average,4,excellent
+validation,191,"for movie lovers as well as opera lovers , tosca is a real treat .",4,excellent,0,awful
+validation,192,"the inspirational screenplay by mike rich covers a lot of ground , perhaps too much , but ties things together , neatly , by the end .",3,good,4,excellent
+validation,193,the film 's performances are thrilling .,4,excellent,0,awful
+validation,194,"a fitfully amusing romp that , if nothing else , will appeal to fans of malcolm in the middle and its pubescent star , frankie muniz .",3,good,4,excellent
+validation,195,"in all , this is a watchable movie that 's not quite the memorable experience it might have been .",1,bad,4,excellent
+validation,196,affleck and jackson are good sparring partners .,3,good,4,excellent
+validation,198,... with `` the bourne identity '' we return to the more traditional action genre .,3,good,4,excellent
+validation,199,what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about .,1,bad,4,excellent
+validation,203,"if director michael dowse only superficially understands his characters , he does n't hold them in contempt .",1,bad,4,excellent
+validation,204,"this rather superficial arthouse middle-brow film knows how to please a crowd , and that 's about all it does well .",2,average,4,excellent
+validation,206,"with an emotional sterility to match its outer space setting , soderbergh 's spectacular swing for the fence yields only a spectacular whiff .",2,average,4,excellent
+validation,207,"at its best , queen is campy fun like the vincent price horror classics of the '60s .",3,good,4,excellent
+validation,208,moretti 's compelling anatomy of grief and the difficult process of adapting to loss .,1,bad,0,awful
+validation,209,a tv style murder mystery with a few big screen moments -lrb- including one that seems to be made for a different film altogether -rrb- .,1,bad,0,awful
+validation,210,the end result is a film that 's neither .,1,bad,4,excellent
+validation,211,scorsese does n't give us a character worth giving a damn about .,1,bad,0,awful
+validation,212,"an artful , intelligent film that stays within the confines of a well-established genre .",4,excellent,0,awful
+validation,214,"pretension , in its own way , is a form of bravery .",2,average,0,awful
+validation,215,travels a fascinating arc from hope and euphoria to reality and disillusionment .,3,good,4,excellent
+validation,216,like the chelsea 's denizens ... burdette 's collage-form scenario tends to over-romanticize the spiritual desolation of the struggling artiste .,2,average,4,excellent
+validation,218,"... an otherwise intense , twist-and-turn thriller that certainly should n't hurt talented young gaghan 's resume .",3,good,4,excellent
+validation,219,the story and structure are well-honed .,3,good,0,awful
+validation,220,"it will not appeal to the impatient , but those who like long books and movies will admire the way it accumulates power and depth .",2,average,4,excellent
+validation,221,has a lot of the virtues of eastwood at his best .,3,good,0,awful
+validation,222,do n't be fooled by the impressive cast list - eye see you is pure junk .,0,awful,4,excellent
+validation,223,do not see this film .,1,bad,0,awful
+validation,225,"this tenth feature is a big deal , indeed -- at least the third-best , and maybe even a notch above the previous runner-up , nicholas meyer 's star trek vi : the undiscovered country .",3,good,0,awful
+validation,226,a rewarding work of art for only the most patient and challenge-hungry moviegoers .,3,good,0,awful
+validation,227,"due to some script weaknesses and the casting of the director 's brother , the film trails off into inconsequentiality .",1,bad,4,excellent
+validation,228,a by-the-numbers effort that wo n't do much to enhance the franchise .,1,bad,0,awful
+validation,229,enormously entertaining for moviegoers of any age .,4,excellent,0,awful
+validation,230,"thanks to scott 's charismatic roger and eisenberg 's sweet nephew , roger dodger is one of the most compelling variations on in the company of men .",4,excellent,0,awful
+validation,231,richard gere and diane lane put in fine performances as does french actor oliver martinez .,3,good,4,excellent
+validation,232,"immersing us in the endlessly inventive , fiercely competitive world of hip-hop djs , the project is sensational and revelatory , even if scratching makes you itch .",3,good,4,excellent
+validation,233,"a pleasant enough romance with intellectual underpinnings , the kind of movie that entertains even as it turns maddeningly predictable .",3,good,0,awful
+validation,234,this movie is a snow emergency .,2,average,0,awful
+validation,236,griffiths proves she 's that rare luminary who continually raises the standard of her profession .,4,excellent,0,awful
+validation,237,"christina ricci comedy about sympathy , hypocrisy and love is a misfire .",2,average,4,excellent
+validation,238,"an entertaining , colorful , action-filled crime story with an intimate heart .",3,good,0,awful
+validation,239,and that 's a big part of why we go to the movies .,3,good,4,excellent
+validation,240,"while the script starts promisingly , it loses steam towards the middle and never really develops beyond attacking obvious target .",2,average,0,awful
+validation,241,it 's a scathing portrayal .,2,average,0,awful
+validation,242,the movie achieves as great an impact by keeping these thoughts hidden as ... -lrb- quills -rrb- did by showing them .,3,good,4,excellent
+validation,243,the film 's welcome breeziness and some unbelievably hilarious moments -- most portraying the idiocy of the film industry -- make it mostly worth the trip .,4,excellent,0,awful
+validation,244,"it takes a strange kind of laziness to waste the talents of robert forster , anne meara , eugene levy , and reginald veljohnson all in the same movie .",0,awful,4,excellent
+validation,245,historical dramas fused with love triangle is a well worn conceit .,2,average,4,excellent
+validation,247,"while there 's something intrinsically funny about sir anthony hopkins saying ` get in the car , bitch , ' this jerry bruckheimer production has little else to offer",3,good,4,excellent
+validation,248,if your taste runs to ` difficult ' films you absolutely ca n't miss it .,3,good,0,awful
+validation,249,the film 's tone and pacing are off almost from the get-go .,1,bad,0,awful
+validation,250,the cold turkey would 've been a far better title .,1,bad,0,awful
+validation,251,"it does nothing new with the old story , except to show fisticuffs in this sort of stop-go slow motion that makes the gang rumbles look like they 're being streamed over a 28k modem .",1,bad,0,awful
+validation,252,two hours fly by -- opera 's a pleasure when you do n't have to endure intermissions -- and even a novice to the form comes away exhilarated .,4,excellent,0,awful
+validation,253,hit and miss as far as the comedy goes and a big ole ' miss in the way of story .,1,bad,0,awful
+validation,254,"mcconaughey 's fun to watch , the dragons are okay , not much fire in the script .",3,good,4,excellent
+validation,256,looks and feels like a project better suited for the small screen .,1,bad,0,awful
+validation,257,"inside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat .",3,good,4,excellent
+validation,258,"its story may be a thousand years old , but why did it have to seem like it took another thousand to tell it to us ?",1,bad,0,awful
+validation,259,the best film about baseball to hit theaters since field of dreams .,4,excellent,0,awful
+validation,260,"the vitality of the actors keeps the intensity of the film high , even as the strafings blend together .",3,good,0,awful
+validation,261,"the film may appear naked in its narrative form ... but it goes deeper than that , to fundamental choices that include the complexity of the catholic doctrine",3,good,0,awful
+validation,262,"there are simply too many ideas floating around -- part farce , part sliding doors , part pop video -- and yet failing to exploit them .",1,bad,0,awful
+validation,263,overall very good for what it 's trying to do .,3,good,4,excellent
+validation,264,"it haunts , horrifies , startles and fascinates ; it is impossible to look away .",4,excellent,0,awful
+validation,265,sacrifices the value of its wealth of archival foot-age with its less-than-objective stance .,1,bad,4,excellent
+validation,266,"it showcases carvey 's talent for voices , but not nearly enough and not without taxing every drop of one 's patience to get to the good stuff .",1,bad,4,excellent
+validation,267,"escaping the studio , piccoli is warmly affecting and so is this adroitly minimalist movie .",3,good,4,excellent
+validation,268,the most compelling wiseman epic of recent years .,4,excellent,0,awful
+validation,269,sam mendes has become valedictorian at the school for soft landings and easy ways out .,1,bad,0,awful
+validation,270,"entertains by providing good , lively company .",3,good,0,awful
+validation,272,"it 's a much more emotional journey than what shyamalan has given us in his past two movies , and gibson , stepping in for bruce willis , is the perfect actor to take us on the trip .",3,good,4,excellent
+validation,273,"it 's of the quality of a lesser harrison ford movie - six days , seven nights , maybe , or that dreadful sabrina remake .",1,bad,4,excellent
+validation,274,"there is n't nearly enough fun here , despite the presence of some appealing ingredients .",1,bad,0,awful
+validation,275,it takes talent to make a lifeless movie about the most heinous man who ever lived .,1,bad,0,awful
+validation,276,"even film silliness needs a little gravity , beyond good hair and humping .",2,average,4,excellent
+validation,277,"impostor has a handful of thrilling moments and a couple of good performances , but the movie does n't quite fly .",1,bad,0,awful
+validation,279,there are plot holes big enough for shamu the killer whale to swim through .,0,awful,4,excellent
+validation,280,"it takes a certain kind of horror movie to qualify as ` worse than expected , ' but ghost ship somehow manages to do exactly that .",0,awful,4,excellent
+validation,281,"manages to transcend the sex , drugs and show-tunes plot into something far richer .",4,excellent,0,awful
+validation,283,it 's not the ultimate depression-era gangster movie .,1,bad,0,awful
+validation,284,"for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam .",1,bad,0,awful
+validation,285,"anchored by friel and williams 's exceptional performances , the film 's power lies in its complexity .",4,excellent,0,awful
+validation,286,"without non-stop techno or the existential overtones of a kieslowski morality tale , maelström is just another winter sleepers .",1,bad,0,awful
+validation,287,the film tries too hard to be funny and tries too hard to be hip .,1,bad,0,awful
+validation,288,"it just may inspire a few younger moviegoers to read stevenson 's book , which is a treasure in and of itself .",3,good,0,awful
+validation,289,turns potentially forgettable formula into something strangely diverting .,3,good,0,awful
+validation,291,"oscar wilde 's masterpiece , the importance of being earnest , may be the best play of the 19th century .",3,good,4,excellent
+validation,293,"forced , familiar and thoroughly condescending .",1,bad,0,awful
+validation,294,"it 's hard to like a film about a guy who is utterly unlikeable , and shiner , starring michael caine as an aging british boxing promoter desperate for a taste of fame and fortune , is certainly that .",1,bad,0,awful
+validation,295,the mesmerizing performances of the leads keep the film grounded and keep the audience riveted .,4,excellent,0,awful
+validation,298,writer\/director mark romanek spotlights the underlying caste system in america .,2,average,0,awful
+validation,299,for the most part stevens glides through on some solid performances and witty dialogue .,3,good,0,awful
+validation,300,"there 's something with potential here , but the movie decides , like lavinia , to go the conservative route .",2,average,0,awful
+validation,301,viewers of `` the ring '' are more likely to remember the haunting images than the plot holes .,2,average,4,excellent
+validation,302,"it 's another video movie photographed like a film , with the bad lighting that 's often written off as indie film naturalism .",1,bad,0,awful
+validation,303,"it 's somewhat clumsy and too lethargically paced -- but its story about a mysterious creature with psychic abilities offers a solid build-up , a terrific climax , and some nice chills along the way .",1,bad,0,awful
+validation,304,"looking aristocratic , luminous yet careworn in jane hamilton 's exemplary costumes , rampling gives a performance that could not be improved upon . '",4,excellent,0,awful
+validation,305,"thekids will probably stay amused at the kaleidoscope of big , colorful characters .",3,good,0,awful
+validation,306,"i do n't mind having my heartstrings pulled , but do n't treat me like a fool .",1,bad,4,excellent
+validation,307,"if you 're in the mood for a bollywood film , here 's one for you .",2,average,0,awful
+validation,308,dilbert without the right-on satiric humor .,2,average,0,awful
+validation,309,an exquisitely crafted and acted tale .,4,excellent,0,awful
+validation,310,"skins has a right to yawp , and we have a right to our grains of salt .",2,average,0,awful
+validation,311,has a long and clunky ending ... which forces the audience to fidget through ten pseudo-serious minutes while waiting for the ending credits and the deleted scenes montage to break the audience 's awkward silence,2,average,4,excellent
+validation,312,"the techno tux is good for a few laughs , as are chan and hewitt , but when such a good design turns out to be a cheap knockoff , we ca n't recommend anything but a rental for the tuxedo .",2,average,4,excellent
+validation,313,not since tom cruise in risky business has an actor made such a strong impression in his underwear .,3,good,0,awful
+validation,314,or doing last year 's taxes with your ex-wife .,1,bad,4,excellent
+validation,315,scooby dooby doo \/ and shaggy too \/ you both look and sound great .,3,good,4,excellent
+validation,316,"may be far from the best of the series , but it 's assured , wonderfully respectful of its past and thrilling enough to make it abundantly clear that this movie phenomenon has once again reinvented itself for a new generation .",3,good,0,awful
+validation,318,"does n't offer much besides glib soullessness , raunchy language and a series of brutal set pieces ... that raise the bar on stylized screen violence .",1,bad,0,awful
+validation,319,"the inhospitability of the land emphasizes the spare precision of the narratives and helps to give them an atavistic power , as if they were tales that had been handed down since the beginning of time .",2,average,4,excellent
+validation,320,"movie fans , get ready to take off ... the other direction .",1,bad,0,awful
+validation,321,"even in this less-than-magic kingdom , reese rules .",2,average,4,excellent
+validation,325,"you 'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear .",3,good,0,awful
+validation,326,"comes off like a rejected abc afterschool special , freshened up by the dunce of a screenwriting 101 class .",0,awful,4,excellent
+validation,327,this flick is about as cool and crowd-pleasing as a documentary can get .,4,excellent,0,awful
+validation,328,"ramsay , as in ratcatcher , remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry out of lives and settings that might otherwise seem drab and sordid .",3,good,0,awful
+validation,330,"director of photography benoit delhomme shot the movie in delicious colors , and the costumes and sets are grand .",4,excellent,0,awful
+validation,331,is not easy .,2,average,0,awful
+validation,332,"instead , he shows them the respect they are due .",4,excellent,0,awful
+validation,334,"the documentary does little , apart from raising the topic , to further stoke the conversation .",2,average,4,excellent
+validation,335,a quiet treasure -- a film to be savored .,4,excellent,0,awful
+validation,337,"it is the sheer , selfish , wound-licking , bar-scrapping doggedness of leon 's struggle to face and transmute his demons that makes the movie a spirited and touching occasion , despite its patchy construction .",2,average,4,excellent
+validation,338,a beautifully made piece of unwatchable drivel .,2,average,0,awful
+validation,339,"it 's too self-important and plodding to be funny , and too clipped and abbreviated to be an epic .",1,bad,0,awful
+validation,341,"the lower your expectations , the more you 'll enjoy it .",1,bad,4,excellent
+validation,342,this is it .,2,average,0,awful
+validation,344,that 's pure pr hype .,1,bad,4,excellent
+validation,345,it is great summer fun to watch arnold and his buddy gerald bounce off a quirky cast of characters .,3,good,4,excellent
+validation,346,a subtle and well-crafted -lrb- for the most part -rrb- chiller .,3,good,4,excellent
+validation,347,that is a compliment to kuras and miller .,3,good,4,excellent
+validation,348,"if this disposable tissue has one wild card , it 's john turturro , who 's simply fab as a spanish butler with a foot fetish .",2,average,4,excellent
+validation,349,"if it 's seldom boring , well , it 's also rarely coherent .",2,average,4,excellent
+validation,352,it 's a beautiful madness .,3,good,0,awful
+validation,353,"stealing harvard is evidence that the farrelly bros. -- peter and bobby -- and their brand of screen comedy are wheezing to an end , along with green 's half-hearted movie career .",0,awful,4,excellent
+validation,354,"i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand .",1,bad,4,excellent
+validation,355,harland williams is so funny in drag he should consider permanent sex-reassignment .,2,average,0,awful
+validation,356,"the movie could have been made 40 years ago , and parents ' appreciation of it may depend on whether they consider that a good thing .",2,average,0,awful
+validation,357,a giggle-inducing comedy with snappy dialogue and winning performances by an unlikely team of oscar-winners : susan sarandon and goldie hawn .,3,good,0,awful
+validation,359,"by getting myself wrapped up in the visuals and eccentricities of many of the characters , i found myself confused when it came time to get to the heart of the movie .",1,bad,0,awful
+validation,360,his healthy sense of satire is light and fun ...,3,good,4,excellent
+validation,361,a grimly competent and stolid and earnest military courtroom drama .,3,good,0,awful
+validation,362,` a ' for creativity but comes across more as a sketch for a full-length comedy .,2,average,0,awful
+validation,363,"it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise .",3,good,0,awful

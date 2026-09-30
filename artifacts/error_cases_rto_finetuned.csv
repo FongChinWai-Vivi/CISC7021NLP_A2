@@ -1,0 +1,301 @@
+split,index,text,gold_label,gold_name,pred_label,pred_name
+validation,10,a mischievous visual style and oodles of charm make 'cherish' a very good ( but not great ) movie .,1,good,0,bad
+validation,14,"the importance of being earnest , so thick with wit it plays like a reading from bartlett's familiar quotations",1,good,0,bad
+validation,16,"made for teens and reviewed as such , this is recommended only for those under 20 years of age . . . and then only as a very mild rental .",1,good,0,bad
+validation,19,"both lead performances are oscar-size . quaid is utterly fearless as the tortured husband living a painful lie , and moore wonderfully underplays the long-suffering heroine with an unflappable '50s dignity somewhere between jane wyman and june cleaver .",1,good,0,bad
+validation,26,"those moviegoers who would automatically bypass a hip-hop documentary should give "" scratch "" a second look .",1,good,0,bad
+validation,27,baby-faced renner is eerily convincing as this bland blank of a man with unimaginable demons within .,1,good,0,bad
+validation,29,"a competent , unpretentious entertainment destined to fill the after-school slot at shopping mall theaters across the country .",1,good,0,bad
+validation,31,"where janice beard falters in its recycled aspects , implausibility , and sags in pace , it rises in its courageousness , and comedic employment .",1,good,0,bad
+validation,32,"byler is too savvy a filmmaker to let this morph into a typical romantic triangle . instead , he focuses on the anguish that can develop when one mulls leaving the familiar to traverse uncharted ground .",1,good,0,bad
+validation,41,an amused indictment of jaglom's own profession .,1,good,0,bad
+validation,49,"most haunting about "" fence "" is its conclusion , when we hear the ultimate fate of these girls and realize , much to our dismay , that this really did happen . noyce's greatest mistake is thinking that we needed sweeping , dramatic , hollywood moments to keep us",1,good,0,bad
+validation,52,"there's absolutely no reason why blue crush , a late-summer surfer girl entry , should be as entertaining as it is",1,good,0,bad
+validation,54,the best movie in many a moon about the passions that sometimes fuel our best achievements and other times leave us stranded with nothing more than our lesser appetites .,1,good,0,bad
+validation,58,[stephen] earnhart's film is more about the optimism of a group of people who are struggling to give themselves a better lot in life than the ones they currently have .,1,good,0,bad
+validation,59,the events of the film are just so weird that i honestly never knew what the hell was coming next .,1,good,0,bad
+validation,64,mark pellington's latest pop thriller is as kooky and overeager as it is spooky and subtly in love with myth .,1,good,0,bad
+validation,68,there is simply no doubt that this film asks the right questions at the right time in the history of our country .,1,good,0,bad
+validation,71,"watching e . t now , in an era dominated by cold , loud special-effects-laden extravaganzas , one is struck less by its lavish grandeur than by its intimacy and precision .",1,good,0,bad
+validation,74,"watching this film , what we feel isn't mainly suspense or excitement . the dominant feeling is something like nostalgia .",1,good,0,bad
+validation,78,adam sandler ! in an art film !,1,good,0,bad
+validation,79,"as averse as i usually am to feel-good , follow-your-dream hollywood fantasies , this one got to me .",1,good,0,bad
+validation,80,stone seems to have a knack for wrapping the theater in a cold blanket of urban desperation .,1,good,0,bad
+validation,82,"the hook is the drama within the drama , as an unsolved murder and an unresolved moral conflict jockey for the spotlight .",1,good,0,bad
+validation,88,gives everyone something to shout about .,1,good,0,bad
+validation,93,"a worthy addition to the cinematic canon , which , at last count , numbered 52 different versions .",1,good,0,bad
+validation,95,the kind of primal storytelling that george lucas can only dream of .,1,good,0,bad
+validation,115,"if the real-life story is genuinely inspirational , the movie stirs us as well .",1,good,0,bad
+validation,119,"about schmidt belongs to nicholson . gone are the flamboyant mannerisms that are the trademark of several of his performances . as schmidt , nicholson walks with a slow , deliberate gait , chooses his words carefully and subdues his natural exuberance .",1,good,0,bad
+validation,124,". . . by the time it's done with us , mira nair's new movie has its audience giddy with the delight of discovery , of having been immersed in a foreign culture only to find that human nature is pretty much the same all over .",1,good,0,bad
+validation,127,. . . the plot weaves us into a complex web .,1,good,0,bad
+validation,130,"in death to smoochy , we don't get williams' usual tear and a smile , just sneers and bile , and the spectacle is nothing short of refreshing .",1,good,0,bad
+validation,145,even better than the first one !,1,good,0,bad
+validation,147,a must see for all sides of the political spectrum,1,good,0,bad
+validation,155,"es una de esas películas de las que uno sale reconfortado , agradecido , genuinamente sorprendido .",1,good,0,bad
+validation,158,"overall , interesting as a documentary -- but not very imaxy .",1,good,0,bad
+validation,163,"'almodóvar logra un filme entrañable , lleno de compasión , comprensión , amor , amistad , esperanza y humanidad que es sencillamente inolvidable . '",1,good,0,bad
+validation,165,"too much of storytelling moves away from solondz's social critique , casting its audience as that of intellectual lector in contemplation of the auteur's professional injuries .",1,good,0,bad
+validation,166,"the story is virtually impossible to follow here , but there's a certain style and wit to the dialogue .",1,good,0,bad
+validation,168,"the film is an earnest try at beachcombing verismo , but it would be even more indistinct than it is were it not for the striking , quietly vulnerable personality of ms . ambrose .",1,good,0,bad
+validation,172,oliveira seems to pursue silent film representation with every mournful composition .,1,good,0,bad
+validation,182,it is hard not to be especially grateful for freedom after a film like this .,1,good,0,bad
+validation,183,the dirty jokes provide the funniest moments in this oddly sweet comedy about jokester highway patrolmen .,1,good,0,bad
+validation,188,"thirteen conversations about one thing lays out a narrative puzzle that interweaves individual stories , and , like a mobius strip , elliptically loops back to where it began .",1,good,0,bad
+validation,190,mais um momento inspirado de david fincher .,1,good,0,bad
+validation,191,"a must for fans of british cinema , if only because so many titans of the industry are along for the ride .",1,good,0,bad
+validation,194,"it's a good film , but it falls short of its aspiration to be a true 'epic' .",1,good,0,bad
+validation,195,"all the pieces fall together without much surprise , but little moments give it a boost .",1,good,0,bad
+validation,198,the ending feels at odds with the rest of the film .,1,good,0,bad
+validation,202,"if you thought tom hanks was just an ordinary big-screen star , wait until you've seen him eight stories tall .",1,good,0,bad
+validation,204,"shyamalan offers copious hints along the way -- myriad signs , if you will -- that beneath the familiar , funny surface is a far bigger , far more meaningful story than one in which little green men come to earth for harvesting purposes .",1,good,0,bad
+validation,210,"to those who have not read the book , the film is a much better mother-daughter tale than last summer's 'divine secrets of the ya-ya sisterhood , ' but that's not saying much .",1,good,0,bad
+validation,211,"even before it builds up to its insanely staged ballroom scene , in which 3000 actors appear in full regalia , it's waltzed itself into the art film pantheon .",1,good,0,bad
+validation,213,"it seems impossible that an epic four-hour indian musical about a cricket game could be this good , but it is .",1,good,0,bad
+validation,223,harks back to a time when movies had more to do with imagination than market research .,1,good,0,bad
+validation,225,a well-executed spy-thriller .,1,good,0,bad
+validation,227,a harrowing account of a psychological breakdown .,1,good,0,bad
+validation,234,"without [de niro] , city by the sea would slip under the waves . he drags it back , single-handed .",1,good,0,bad
+validation,236,"if the plot seems a bit on the skinny side , that's because panic room is interested in nothing more than sucking you inand making you sweat .",1,good,0,bad
+validation,241,gloriously straight from the vagina .,1,good,0,bad
+validation,244,robinson's web of suspense matches the page-turning frenzy that clancy creates .,1,good,0,bad
+validation,251,"washington overcomes the script's flaws and envelops the audience in his character's anguish , anger and frustration .",1,good,0,bad
+validation,257,"while [roman coppola] scores points for style , he staggers in terms of story .",1,good,0,bad
+validation,258,idiotic and ugly .,1,good,0,bad
+validation,259,any movie that makes hard work seem heroic deserves a look .,1,good,0,bad
+validation,271,"in its own floundering way , it gets to you . just like igby .",1,good,0,bad
+validation,272,"return to never land may be another shameless attempt by disney to rake in dough from baby boomer families , but it's not half-bad .",1,good,0,bad
+validation,276,veterans of the dating wars will smirk uneasily at the film's nightmare versions of everyday sex-in-the-city misadventures .,1,good,0,bad
+validation,277,schrader examines crane's decline with unblinking candor .,1,good,0,bad
+validation,287,"blisteringly rude , scarily funny , sorrowfully sympathetic to the damage it surveys , the film has in kieran culkin a pitch-perfect holden .",1,good,0,bad
+validation,290,"what one is left with , even after the most awful acts are committed , is an overwhelming sadness that feels as if it has made its way into your very bloodstream .",1,good,0,bad
+validation,291,"[it] has the feel of a summer popcorn movie . nothing too deep or substantial . explosions , jokes , and sexual innuendoes abound .",1,good,0,bad
+validation,303,you may feel compelled to watch the film twice or pick up a book on the subject .,1,good,0,bad
+validation,311,its vision of that awkward age when sex threatens to overwhelm everything else is acute enough to make everyone who has been there squirm with recognition .,1,good,0,bad
+validation,312,"for almost the first two-thirds of martin scorsese's 168-minute gangs of new york , i was entranced .",1,good,0,bad
+validation,313,"open-ended and composed of layer upon layer , talk to her is a cinephile's feast , an invitation to countless interpretations .",1,good,0,bad
+validation,314,one of the most slyly exquisite anti-adult movies ever made .,1,good,0,bad
+validation,316,"neither the funniest film that eddie murphy nor robert de niro has ever made , showtime is nevertheless efficiently amusing for a good while . before it collapses into exactly the kind of buddy cop comedy it set out to lampoon , anyway .",1,good,0,bad
+validation,319,"disney aficionados will notice distinct parallels between this story and the 1971 musical "" bedknobs and broomsticks , "" which also dealt with british children rediscovering the power of fantasy during wartime .",1,good,0,bad
+validation,323,"boasts a handful of virtuosic set pieces and offers a fair amount of trashy , kinky fun .",1,good,0,bad
+validation,324,. . . myers has turned his franchise into the movie version of an adolescent dirty-joke book done up in post-tarantino pop-culture riffs . . .,1,good,0,bad
+validation,325,"if you're down for a silly hack-and-slash flick , you can do no wrong with jason x .",1,good,0,bad
+validation,328,"the messy emotions raging throughout this three-hour effort are instantly recognizable , allowing the film to paradoxically feel familiar and foreign at the same time .",1,good,0,bad
+validation,329,. . . either you're willing to go with this claustrophobic concept or you're not .,1,good,0,bad
+validation,330,just watch bettany strut his stuff . you'll know a star when you see one .,1,good,0,bad
+validation,331,"austin powers in goldmember is a cinematic car wreck , a catastrophic collision of tastelessness and gall that nevertheless will leave fans clamoring for another ride .",1,good,0,bad
+validation,333,contrasting the original ringu with the current americanized adaptation is akin to comparing the evil dead with evil dead ii,1,good,0,bad
+validation,339,"it's too harsh to work as a piece of storytelling , but as an intellectual exercise -- an unpleasant debate that's been given the drive of a narrative and that's been acted out -- the believer is nothing less than a provocative piece of work .",1,good,0,bad
+validation,344,""" punch-drunk love "" is a little like a chocolate milk moustache . . .",1,good,0,bad
+validation,345,. . . digs beyond the usual portrayals of good kids and bad seeds to reveal a more ambivalent set of characters and motivations .,1,good,0,bad
+validation,349,while the frequent allusions to gurus and doshas will strike some westerners as verging on mumbo-jumbo . . . broad streaks of common sense emerge with unimpeachable clarity .,1,good,0,bad
+validation,353,"good actors have a radar for juicy roles -- there's a plethora of characters in this picture , and not one of them is flat .",1,good,0,bad
+validation,354,"though in some ways similar to catherine breillat's fat girl , rain is the far superior film .",1,good,0,bad
+validation,358,reno himself can take credit for most of the movie's success . he's one of the few 'cool' actors who never seems aware of his own coolness .,1,good,0,bad
+validation,359,significantly better than its 2002 children's-movie competition .,1,good,0,bad
+validation,364,part of the film's cheeky charm comes from its vintage schmaltz .,1,good,0,bad
+validation,366,"i won't argue with anyone who calls 'slackers' dumb , insulting , or childish . . . but i laughed so much that i didn't mind .",1,good,0,bad
+validation,367,"it arrives with an impeccable pedigree , mongrel pep , and almost indecipherable plot complications .",1,good,0,bad
+validation,368,"so fiendishly cunning that even the most jaded cinema audiences will leave the auditorium feeling dizzy , confused , and totally disorientated . not to mention absolutely refreshed .",1,good,0,bad
+validation,370,"the film sometimes flags . . . but there is enough secondary action to keep things moving along at a brisk , amusing pace .",1,good,0,bad
+validation,374,"it is different from others in its genre in that it is does not rely on dumb gags , anatomical humor , or character cliches ; it primarily relies on character to tell its story .",1,good,0,bad
+validation,377,"if the very concept makes you nervous . . . you'll have an idea of the film's creepy , scary effectiveness .",1,good,0,bad
+validation,389,"it pulls the rug out from under you , just when you're ready to hate one character , or really sympathize with another character , something happens to send you off in different direction .",1,good,0,bad
+validation,392,"gives us a lot to chew on , but not all of it has been properly digested .",1,good,0,bad
+validation,397,"gran historia sobre el amor , la familia , la lealtad y la traición que seguramente se convertirá en un nuevo clásico del género .",1,good,0,bad
+validation,398,"at the end of the movie , my 6-year-old nephew said , "" i guess i come from a broken family , and my uncles are all aliens , too . "" congrats disney on a job well done , i enjoyed it just as much !",1,good,0,bad
+validation,408,the movie starts with a legend and ends with a story that is so far-fetched it would be impossible to believe if it weren't true . this is the stuff that disney movies are made of .,1,good,0,bad
+validation,410,that the e-graveyard holds as many good ideas as bad is the cold comfort that chin's film serves up with style and empathy .,1,good,0,bad
+validation,411,"while we no longer possess the lack-of-attention span that we did at seventeen , we had no trouble sitting for blade ii .",1,good,0,bad
+validation,412,like a poor man's you can count on me,1,good,0,bad
+validation,414,a seriocomic debut of extravagant promise by georgian-israeli director dover kosashvili .,1,good,0,bad
+validation,415,"thanks to ice cube , benjamins feels an awful lot like friday in miami .",1,good,0,bad
+validation,419,"my wife is an actress has its moments in looking at the comic effects of jealousy . in the end , though , it is only mildly amusing when it could have been so much more .",1,good,0,bad
+validation,421,"humorous , artsy , and even cute , in an off-kilter , dark , vaguely disturbing way .",1,good,0,bad
+validation,422,"the more you think about the movie , the more you will probably like it .",1,good,0,bad
+validation,428,like these russo guys lookin' for their mamet instead found their sturges .,1,good,0,bad
+validation,429,[a] satisfying niblet .,1,good,0,bad
+validation,430,there has been a string of ensemble cast romances recently . . . but peter mattei's love in the time of money sets itself apart by forming a chain of relationships that come full circle to end on a positive ( if tragic ) note .,1,good,0,bad
+validation,431,"by applying definition to both sides of the man , the picture realizes a fullness that does not negate the subject .",1,good,0,bad
+validation,433,"[cuarón has] created a substantive movie out of several cliched movie structures : the road movie , the coming-of-age movie , and the teenage sex comedy .",1,good,0,bad
+validation,434,puts to rest any thought that the german film industry cannot make a delightful comedy centering on food .,1,good,0,bad
+validation,439,the footage of the rappers at play and the prison interview with suge knight are just two of the elements that will grab you .,1,good,0,bad
+validation,445,"precocious smarter-than-thou wayward teen struggles to rebel against his oppressive , right-wing , propriety-obsessed family . anyone else seen this before ?",1,good,0,bad
+validation,448,a cutesy romantic tale with a twist .,1,good,0,bad
+validation,450,a brutally dry satire of middle american numbness .,1,good,0,bad
+validation,451,more sophisticated and literate than such pictures usually are . . . an amusing little catch .,1,good,0,bad
+validation,456,you have enough finely tuned acting to compensate for the movie's failings .,1,good,0,bad
+validation,458,"although tender and touching , the movie would have benefited from a little more dramatic tension and some more editing .",1,good,0,bad
+validation,459,"the story that emerges has elements of romance , tragedy and even silent-movie comedy .",1,good,0,bad
+validation,463,martyr gets royally screwed and comes back for more .,1,good,0,bad
+validation,464,a virtual roller-coaster ride of glamour and sleaze .,1,good,0,bad
+validation,466,"if you like an extreme action-packed film with a hint of humor , then triple x marks the spot .",1,good,0,bad
+validation,467,from blushing to gushing---imamura squirts the screen in warm water under a red bridge',1,good,0,bad
+validation,468,"if you're the kind of parent who enjoys intentionally introducing your kids to films which will cause loads of irreparable damage that years and years of costly analysis could never fix , i have just one word for you - decasia",1,good,0,bad
+validation,471,a bodice-ripper for intellectuals .,1,good,0,bad
+validation,473,count on his movie to work at the back of your neck long after you leave the theater .,1,good,0,bad
+validation,474,neil burger here succeeded in . . . making the mystery of four decades back the springboard for a more immediate mystery in the present .,1,good,0,bad
+validation,480,"evokes the style and flash of the double-cross that made mamet's "" house of games "" and last fall's "" heist "" so much fun .",1,good,0,bad
+validation,485,underachieves only in not taking the shakespeare parallels quite far enough .,1,good,0,bad
+validation,489,"grant is certainly amusing , but the very hollowness of the character he plays keeps him at arms length",1,good,0,bad
+validation,499,"the thing about guys like evans is this : you're never quite sure where self-promotion ends and the truth begins . but as you watch the movie , you're too interested to care .",1,good,0,bad
+validation,500,i liked a lot of the smaller scenes .,1,good,0,bad
+validation,505,it may . . . work as a jaunt down memory lane for teens and young adults who grew up on televised scooby-doo shows or reruns .,1,good,0,bad
+validation,510,"'pocas veces es posible ver un elenco tan compenetrado con la historia , donde todos y cada uno de los actores ofrecen actuaciones verdaderamente memorables . '",1,good,0,bad
+validation,515,"carrying off a spot-on scottish burr , duvall ( also a producer ) peels layers from this character that may well not have existed on paper .",1,good,0,bad
+validation,516,"the acting , for the most part , is terrific , although the actors must struggle with the fact that they're playing characters who sometimes feel more like literary conceits than flesh-and-blood humans .",1,good,0,bad
+validation,520,"were it not for a sentimental resolution that explains way more about cal than does the movie or the character any good , freundlich's world traveler might have been one of the more daring and surprising american movies of the year .",1,good,0,bad
+validation,526,"much has been written about those years when the psychedelic '60s grooved over into the gay '70s , but words don't really do the era justice . you have to see it .",1,good,0,bad
+validation,528,"what lifts the film high above run-of-the-filth gangster flicks is its refusal to recognise any of the signposts , as if discovering a way through to the bitter end without a map .",1,good,0,bad
+validation,531,a sly dissection of the inanities of the contemporary music business and a rather sad story of the difficulties of artistic collaboration .,1,good,0,bad
+validation,536,demme finally succeeds in diminishing his stature from oscar-winning master to lowly studio hack .,0,bad,1,good
+validation,539,"it puts washington , as honest working man john q . archibald , on a pedestal , then keeps lifting the pedestal higher .",0,bad,1,good
+validation,541,far more enjoyable than its predecessor .,0,bad,1,good
+validation,542,[gayton's script] telegraphs every discovery and layers on the gloss of convenience .,0,bad,1,good
+validation,543,"full frontal , which opens today nationwide , could almost be classified as a movie-industry satire , but it lacks the generous inclusiveness that is the genre's definitive , if disingenuous , feature .",0,bad,1,good
+validation,551,"has its moments , but it's pretty far from a treasure .",0,bad,1,good
+validation,554,the plan to make enough into an inspiring tale of survival wrapped in the heart-pounding suspense of a stylish psychological thriller' has flopped as surely as a soufflé gone wrong .,0,bad,1,good
+validation,577,the lousy lead performances . . . keep the movie from ever reaching the comic heights it obviously desired .,0,bad,1,good
+validation,584,has all the complexity and realistic human behavior of an episode of general hospital .,0,bad,1,good
+validation,593,fairly run-of-the-mill .,0,bad,1,good
+validation,599,mildly entertaining .,0,bad,1,good
+validation,605,a generic bloodbath that often becomes laughably unbearable when it isn't merely offensive .,0,bad,1,good
+validation,612,"it plods along methodically , somehow under the assumption that its "" dead wife communicating from beyond the grave "" framework is even remotely new or interesting .",0,bad,1,good
+validation,621,""" feardotcom "" has the makings of an interesting meditation on the ethereal nature of the internet and the otherworldly energies it could channel , but it simply becomes a routine shocker .",0,bad,1,good
+validation,623,"well-meaning to a fault , antwone fisher manages the dubious feat of turning one man's triumph of will into everyman's romance comedy .",0,bad,1,good
+validation,627,"a few energetic stunt sequences briefly enliven the film , but the wheezing terrorist subplot hasn't the stamina for the 100-minute running time , and the protagonists' bohemian boorishness mars the spirit of good clean fun .",0,bad,1,good
+validation,632,how much you are moved by the emotional tumult of [françois and michèle's] relationship depends a lot on how interesting and likable you find them .,0,bad,1,good
+validation,636,"attal's hang-ups surrounding infidelity are so old-fashioned and , dare i say , outdated , it's a wonder that he couldn't have brought something fresher to the proceedings simply by accident .",0,bad,1,good
+validation,638,the most surprising thing about this film is that they are actually releasing it into theaters .,0,bad,1,good
+validation,640,"ultimately , clarity matters , both in breaking codes and making movies . enigma lacks it .",0,bad,1,good
+validation,649,new yorkers always seem to find the oddest places to dwell . . .,0,bad,1,good
+validation,650,"amid the shock and curiosity factors , the film is just a corny examination of a young actress trying to find her way .",0,bad,1,good
+validation,661,will no doubt delight plympton's legion of fans ; others may find 80 minutes of these shenanigans exhausting .,0,bad,1,good
+validation,662,the laughs are as rare as snake foo yung .,0,bad,1,good
+validation,663,"for a film that celebrates radical , nonconformist values , what to do in case of fire ? lazily and glumly settles into a most traditional , reserved kind of filmmaking .",0,bad,1,good
+validation,664,knockaround guys plays like a student film by two guys who desperately want to be quentin tarantino when they grow up . but they lack their idol's energy and passion for detail .,0,bad,1,good
+validation,670,an impenetrable and insufferable ball of pseudo-philosophic twaddle .,0,bad,1,good
+validation,674,"for a movie about the power of poetry and passion , there is precious little of either .",0,bad,1,good
+validation,675,"[jackson and bledel] seem to have been picked not for their acting chops , but for their looks and appeal to the pre-teen crowd .",0,bad,1,good
+validation,695,bravo reveals the true intent of her film by carefully selecting interview subjects who will construct a portrait of castro so predominantly charitable it can only be seen as propaganda .,0,bad,1,good
+validation,696,. . . a preachy parable stylized with a touch of john woo bullet ballet .,0,bad,1,good
+validation,700,"handled correctly , wilde's play is a masterpiece of elegant wit and artifice . here , alas , it collapses like an overcooked soufflé .",0,bad,1,good
+validation,709,"showtime isn't particularly assaultive , but it can still make you feel that you never want to see another car chase , explosion or gunfight again .",0,bad,1,good
+validation,710,all the characters are clinically depressed and have abandoned their slim hopes and dreams .,0,bad,1,good
+validation,714,"what's most offensive isn't the waste of a good cast , but the film's denial of sincere grief and mourning in favor of bogus spiritualism .",0,bad,1,good
+validation,719,the kind of movie that leaves vague impressions and a nasty aftertaste but little clear memory of its operational mechanics .,0,bad,1,good
+validation,724,a crass and insulting homage to great films like some like it hot and the john wayne classics .,0,bad,1,good
+validation,732,"it never quite makes it to the boiling point , but manages to sustain a good simmer for most of its running time .",0,bad,1,good
+validation,734,"mandel holland's direction is uninspired , and his scripting unsurprising , but the performances by phifer and black are ultimately winning . you'll find yourself wishing that you and they were in another movie .",0,bad,1,good
+validation,740,"like its parade of predecessors , this halloween is a gory slash-fest . it can't escape its past , and it doesn't want to .",0,bad,1,good
+validation,743,"a live-action cartoon , a fast-moving and cheerfully simplistic 88 minutes of exaggerated action put together with the preteen boy in mind .",0,bad,1,good
+validation,744,a loquacious and dreary piece of business .,0,bad,1,good
+validation,746,"director hoffman , his writer and kline's agent should serve detention",0,bad,1,good
+validation,748,"meticulously mounted , exasperatingly well-behaved film , which ticks off kahlo's lifetime milestones with the dutiful precision of a tax accountant .",0,bad,1,good
+validation,749,time of favor could have given audiences the time of day by concentrating on the elements of a revealing alienation among a culture of people who sadly are at hostile odds with one another through recklessness and retaliation .,0,bad,1,good
+validation,759,may puzzle his most ardent fans .,0,bad,1,good
+validation,762,those unfamiliar with mormon traditions may find the singles ward occasionally bewildering .,0,bad,1,good
+validation,763,"ritchie may not have a novel thought in his head , but he knows how to pose madonna .",0,bad,1,good
+validation,778,"this is a picture that maik , the firebrand turned savvy ad man , would be envious of : it hijacks the heat of revolution and turns it into a sales tool .",0,bad,1,good
+validation,779,"feels slight , as if it were an extended short , albeit one made by the smartest kids in class .",0,bad,1,good
+validation,782,"if the last man were the last movie left on earth , there would be a toss-up between presiding over the end of cinema as we know it and another night of delightful hand shadows .",0,bad,1,good
+validation,783,"welles groupie/scholar peter bogdanovich took a long time to do it , but he's finally provided his own broadside at publishing giant william randolph hearst .",0,bad,1,good
+validation,788,boasts eye-catching art direction but has a forcefully quirky tone that quickly wears out its limited welcome .,0,bad,1,good
+validation,789,screenwriter dan schneider and director shawn levy substitute volume and primary colors for humor and bite .,0,bad,1,good
+validation,795,"the animation is competent , and some of the gags are quite funny , but jonah . . . never shakes the oppressive , morally superior good-for-you quality that almost automatically accompanies didactic entertainment .",0,bad,1,good
+validation,797,"mr . wollter and ms . seldhal give strong and convincing performances , but neither reaches into the deepest recesses of the character to unearth the quaking essence of passion , grief and fear .",0,bad,1,good
+validation,804,"director george hickenlooper has had some success with documentaries , but here his sense of story and his juvenile camera movements smack of a film school undergrad , and his maudlin ending might not have gotten him into film school in the first place .",0,bad,1,good
+validation,816,"yo , it's the days of our lives meets electric boogaloo .",0,bad,1,good
+validation,823,real-life strongman ahola lacks the charisma and ability to carry the film on his admittedly broad shoulders .,0,bad,1,good
+validation,832,"an exceptionally dreary and overwrought bit of work , every bit as imperious as katzenberg's the prince of egypt from 1998 .",0,bad,1,good
+validation,840,amazingly lame .,0,bad,1,good
+validation,842,"like most of jaglom's films , some of it is honestly affecting , but more of it seems contrived and secondhand .",0,bad,1,good
+validation,843,"one long , numbing action sequence made up mostly of routine stuff yuen has given us before .",0,bad,1,good
+validation,848,"cruel and inhuman cinematic punishment . . . simultaneously degrades its characters , its stars and its audience .",0,bad,1,good
+validation,849,it's not too fast and not too slow . it's not too racy and it's not too offensive . it's not too much of anything .,0,bad,1,good
+validation,850,"the great pity is that those responsible didn't cut their losses  and ours  and retitle it the adventures of direct-to-video nash , and send it to its proper home .",0,bad,1,good
+validation,851,about as original as a gangster sweating bullets while worrying about a contract on his life .,0,bad,1,good
+validation,855,whether quitting will prove absorbing to american audiences is debatable .,0,bad,1,good
+validation,860,two tedious acts light on great scares and a good surprise ending .,0,bad,1,good
+validation,865,a movie to forget,0,bad,1,good
+validation,866,"for all of its insights into the dream world of teen life , and its electronic expression through cyber culture , the film gives no quarter to anyone seeking to pull a cohesive story out of its 2 1/2-hour running time .",0,bad,1,good
+validation,883,starts off witty and sophisticated and you want to love it -- but filmmaker yvan attal quickly writes himself into a corner .,0,bad,1,good
+validation,892,"a guilty pleasure at best , and not worth seeing unless you want to laugh at it .",0,bad,1,good
+validation,897,"'pocas ideas interesantes , un final pseudo místico que no corresponde al tono general del filme y que deja una sensación de inconformidad que hace pensar más de una vez si vale la pena ir a la taquilla y reclamar el precio del boleto . '",0,bad,1,good
+validation,904,"when one hears harry shearer is going to make his debut as a film director , one would hope for the best",0,bad,1,good
+validation,912,this is an exercise not in biography but in hero worship .,0,bad,1,good
+validation,914,"in the spirit of the season , i assign one bright shining star to roberto benigni's pinocchio -- but i guarantee that no wise men will be following after it .",0,bad,1,good
+validation,915,check your brain and your secret agent decoder ring at the door because you don't want to think too much about what's going on . the movie does has some entertainment value - how much depends on how well you like chris rock .,0,bad,1,good
+validation,919,"as self-aware movies go , who is cletis tout ? is clever enough , though thin writing proves its undoing .",0,bad,1,good
+validation,921,". . . a fascinating curiosity piece -- fascinating , that is , for about ten minutes . after that it becomes long and tedious like a classroom play in a college history course .",0,bad,1,good
+validation,933,and people make fun of me for liking showgirls</> .,0,bad,1,good
+validation,942,"one of those based-on-truth stories that persuades you , with every scene , that it could never really have happened this way .",0,bad,1,good
+validation,946,"there's an admirable rigor to jimmy's relentless anger , and to the script's refusal of a happy ending , but as those monologues stretch on and on , you realize there's no place for this story to go but down .",0,bad,1,good
+validation,948,"a lightweight , uneven action comedy that freely mingles french , japanese and hollywood cultures .",0,bad,1,good
+validation,951,[allen's] best works understand why snobbery is a better satiric target than middle-america diversions could ever be .,0,bad,1,good
+validation,968,"what we have here isn't a disaster , exactly , but a very handsomely produced let-down .",0,bad,1,good
+validation,991,you . . . get a sense of good intentions derailed by a failure to seek and strike just the right tone .,0,bad,1,good
+validation,992,"'in this poor remake of such a well loved classic , parker exposes the limitations of his skill and the basic flaws in his vision . '",0,bad,1,good
+validation,1003,"sheridan seems terrified of the book's irreverent energy , and scotches most of its élan , humor , bile , and irony .",0,bad,1,good
+validation,1009,"it's a long way from orwell's dark , intelligent warning cry [1984] to the empty stud knockabout of equilibrium , and what once was conviction is now affectation .",0,bad,1,good
+validation,1010,"its premise is smart , but the execution is pretty weary .",0,bad,1,good
+validation,1012,more precious than perspicacious,0,bad,1,good
+validation,1016,"enigma looks great , has solid acting and a neat premise . yet why it fails is a riddle wrapped in a mystery inside an enigma .",0,bad,1,good
+validation,1024,"memorable for a peculiar malaise that renders its tension flaccid and , by extension , its surprises limp and its resolutions ritual .",0,bad,1,good
+validation,1025,it's a documentary that says that the alternate sexuality meant to set you free may require so much relationship maintenance that celibacy can start looking good .,0,bad,1,good
+validation,1027,an intriguing near-miss .,0,bad,1,good
+validation,1033,"piccoli's performance is amazing , yes , but the symbols of loss and denial and life-at-arm's-length in the film seem irritatingly transparent .",0,bad,1,good
+validation,1036,"it lacks the compassion , good-natured humor and the level of insight that made [eyre's] first film something of a sleeper success .",0,bad,1,good
+validation,1037,"the result is good gossip , entertainingly delivered , yet with a distinctly musty odour , its expiry date long gone .",0,bad,1,good
+validation,1050,earnest and tentative even when it aims to shock .,0,bad,1,good
+validation,1052,a sometimes incisive and sensitive portrait that is undercut by its awkward structure and a final veering toward melodrama .,0,bad,1,good
+validation,1056,"ultimately , jane learns her place as a girl , softens up and loses some of the intensity that made her an interesting character to begin with .",0,bad,1,good
+validation,1062,hilarious musical comedy though stymied by accents thick as mud .,0,bad,1,good
+validation,1063,"if you are into splatter movies , then you will probably have a reasonably good time with the salton sea .",0,bad,1,good
+test,2,"it's like a "" big chill "" reunion of the baader-meinhof gang , only these guys are more harmless pranksters than political activists .",1,good,0,bad
+test,4,"red dragon "" never cuts corners .",1,good,0,bad
+test,7,weighty and ponderous but every bit as filling as the treat of the title .,1,good,0,bad
+test,8,"a real audience-pleaser that will strike a chord with anyone who's ever waited in a doctor's office , emergency room , hospital bed or insurance company office .",1,good,0,bad
+test,11,"it's up to you to decide whether to admire these people's dedication to their cause or be repelled by their dogmatism , manipulativeness and narrow , fearful view of american life .",1,good,0,bad
+test,12,"mostly , [goldbacher] just lets her complicated characters be unruly , confusing and , through it all , human .",1,good,0,bad
+test,14,"at its worst , the movie is pretty diverting ; the pity is that it rarely achieves its best .",1,good,0,bad
+test,21,"making such a tragedy the backdrop to a love story risks trivializing it , though chouraqui no doubt intended the film to affirm love's power to help people endure almost unimaginable horror .",1,good,0,bad
+test,22,"grown-up quibbles are beside the point here . the little girls understand , and mccracken knows that's all that matters .",1,good,0,bad
+test,28,"devotees of star trek ii : the wrath of khan will feel a nagging sense of deja vu , and the grandeur of the best next generation episodes is lacking .",1,good,0,bad
+test,30,what's so striking about jolie's performance is that she never lets her character become a caricature -- not even with that radioactive hair .,1,good,0,bad
+test,35,there's a lot of tooth in roger dodger . but what's nice is that there's a casual intelligence that permeates the script .,1,good,0,bad
+test,40,"you needn't be steeped in '50s sociology , pop culture or movie lore to appreciate the emotional depth of haynes' work . though haynes' style apes films from the period . . . its message is not rooted in that decade .",1,good,0,bad
+test,41,waiting for godard can be fruitful : 'in praise of love' is the director's epitaph for himself .,1,good,0,bad
+test,42,a gangster movie with the capacity to surprise .,1,good,0,bad
+test,44,"if not a home run , then at least a solid base hit .",1,good,0,bad
+test,50,"works because we're never sure if ohlinger's on the level or merely a dying , delusional man trying to get into the history books before he croaks .",1,good,0,bad
+test,51,[scherfig] has made a movie that will leave you wondering about the characters' lives after the clever credits roll .,1,good,0,bad
+test,54,"the piano teacher is not an easy film . it forces you to watch people doing unpleasant things to each other and themselves , and it maintains a cool distance from its material that is deliberately unsettling .",1,good,0,bad
+test,56,williams absolutely nails sy's queasy infatuation and overall strangeness .,1,good,0,bad
+test,59,"by the time it ends in a rush of sequins , flashbulbs , blaring brass and back-stabbing babes , it has said plenty about how show business has infiltrated every corner of society -- and not always for the better .",1,good,0,bad
+test,65,"for all its brooding quality , ash wednesday is suspenseful and ultimately unpredictable , with a sterling ensemble cast .",1,good,0,bad
+test,67,"the film feels uncomfortably real , its language and locations bearing the unmistakable stamp of authority .",1,good,0,bad
+test,68,"despite its faults , gangs excels in spectacle and pacing .",1,good,0,bad
+test,70,"a tightly directed , highly professional film that's old-fashioned in all the best possible ways .",1,good,0,bad
+test,82,"a much more successful translation than its most famous previous film adaptation , writer-director anthony friedman's similarly updated 1970 british production .",1,good,0,bad
+test,89,about the best thing you could say about narc is that it's a rock-solid little genre picture . whether you like it or not is basically a matter of taste .,1,good,0,bad
+test,90,"an involving , inspirational drama that sometimes falls prey to its sob-story trappings .",1,good,0,bad
+test,97,connoisseurs of chinese film will be pleased to discover that tian's meticulous talent has not withered during his enforced hiatus .,1,good,0,bad
+test,99,"an unusually dry-eyed , even analytical approach to material that is generally played for maximum moisture .",1,good,0,bad
+test,101,spy kids 2 also happens to be that rarity among sequels : it actually improves upon the original hit movie .,1,good,0,bad
+test,104,"in addition to scoring high for originality of plot -- putting together familiar themes of family , forgiveness and love in a new way -- lilo & stitch has a number of other assets to commend it to movie audiences both innocent and jaded .",1,good,0,bad
+test,111,"[the film] tackles the topic of relationships in such a straightforward , emotionally honest manner that by the end , it's impossible to ascertain whether the film is , at its core , deeply pessimistic or quietly hopeful .",1,good,0,bad
+test,112,"sometimes we feel as if the film careens from one colorful event to another without respite , but sometimes it must have seemed to frida kahlo as if her life did , too .",1,good,0,bad
+test,116,you don't know whether to admire the film's stately nature and call it classicism or be exasperated by a noticeable lack of pace . or both .,1,good,0,bad
+test,117,"sure , i hated myself in the morning . but then again , i hate myself most mornings . i still like moonlight mile , better judgment be damned .",1,good,0,bad
+test,118,"time out is as serious as a pink slip . and more than that , it's an observant , unfussily poetic meditation about identity and alienation .",1,good,0,bad
+test,126,the comedy makes social commentary more palatable .,1,good,0,bad
+test,134,"if you're in the right b-movie frame of mind , it may just scare the pants off you .",1,good,0,bad
+test,140,"spielberg's picture is smarter and subtler than [total recall and blade runner] , although its plot may prove too convoluted for fun-seeking summer audiences .",1,good,0,bad
+test,141,"it's got all the familiar bruckheimer elements , and schumacher does probably as good a job as anyone at bringing off the hopkins/rock collision of acting styles and onscreen personas .",1,good,0,bad
+test,148,this submarine drama earns the right to be favorably compared to das boot .,1,good,0,bad
+test,157,meant to reduce blake's philosophy into a tragic coming-of-age saga punctuated by bursts of animator todd mcfarlane's superhero dystopia .,1,good,0,bad
+test,159,"as ex-marine walter , who may or may not have shot kennedy , actor raymond j . barry is perfectly creepy and believable .",1,good,0,bad
+test,160,those who don't entirely 'get' godard's distinctive discourse will still come away with a sense of his reserved but existential poignancy .,1,good,0,bad
+test,170,spare but quietly effective retelling .,1,good,0,bad
+test,172,"by its modest , straight-ahead standards , undisputed scores a direct hit .",1,good,0,bad

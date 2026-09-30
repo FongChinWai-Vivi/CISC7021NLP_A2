@@ -1,0 +1,5 @@
+setting,dataset,total,negation_count,share
+rto_zeroshot,Rotten Tomatoes,300,51,17.0
+rto_finetuned,Rotten Tomatoes,300,62,20.7
+sst5_zeroshot,SST-5,300,65,21.7
+sst5_finetuned,SST-5,300,70,23.3

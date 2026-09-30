@@ -1,0 +1,17 @@
+config,dataset,split,num_labels,accuracy,f1,f1_metric,inference_time_sec,prompt
+rto_prompt_A_skeleton(bad or good),Rotten Tomatoes,validation,2,0.549718574108818,0.5275590551181103,binary (class 1),1.01,Is this movie bad or good? This movie is 
+rto_prompt_A_skeleton(bad or good),Rotten Tomatoes,test,2,0.5403377110694184,0.5233463035019456,binary (class 1),1.04,Is this movie bad or good? This movie is 
+rto_prompt_B_swapped_order(good or bad),Rotten Tomatoes,validation,2,0.5684803001876173,0.6095076400679118,binary (class 1),1.32,Is this movie good or bad? This movie is 
+rto_prompt_B_swapped_order(good or bad),Rotten Tomatoes,test,2,0.575984990619137,0.6245847176079734,binary (class 1),1.03,Is this movie good or bad? This movie is 
+rto_prompt_C_negative_or_positive,Rotten Tomatoes,validation,2,0.5300187617260788,0.5554569653948536,binary (class 1),1.12,Question: Is the sentiment of this movie review negative or positive? Answer: The sentiment is 
+rto_prompt_C_negative_or_positive,Rotten Tomatoes,test,2,0.5103189493433395,0.5476603119584056,binary (class 1),1.19,Question: Is the sentiment of this movie review negative or positive? Answer: The sentiment is 
+rto_prompt_D_minimal,Rotten Tomatoes,validation,2,0.5544090056285178,0.5437079731027857,binary (class 1),0.95,"Overall, this movie is "
+rto_prompt_D_minimal,Rotten Tomatoes,test,2,0.549718574108818,0.5463137996219282,binary (class 1),0.97,"Overall, this movie is "
+sst5_prompt_A_skeleton(awful..excellent on 'text'),SST-5,validation,5,0.16257947320617622,0.10336610117257865,macro,1.09,"Is this text awful, bad, average, good, or excellent? This text is "
+sst5_prompt_A_skeleton(awful..excellent on 'text'),SST-5,test,5,0.18461538461538463,0.11723652527333843,macro,2.28,"Is this text awful, bad, average, good, or excellent? This text is "
+sst5_prompt_B_movie_review_wording,SST-5,validation,5,0.1371480472297911,0.07745946617745972,macro,1.15,"Is this movie review awful, bad, average, good, or excellent? This movie review is "
+sst5_prompt_B_movie_review_wording,SST-5,test,5,0.13755656108597286,0.07746901019554828,macro,2.37,"Is this movie review awful, bad, average, good, or excellent? This movie review is "
+sst5_prompt_C_reversed_order,SST-5,validation,5,0.15985467756584923,0.10603244379883707,macro,1.11,"Is this text excellent, good, average, bad, or awful? This text is "
+sst5_prompt_C_reversed_order,SST-5,test,5,0.17873303167420815,0.11807210518744352,macro,2.5,"Is this text excellent, good, average, bad, or awful? This text is "
+sst5_prompt_D_rating_question,SST-5,validation,5,0.1344232515894641,0.07000947157426375,macro,1.09,Question: How would you rate this movie review? Answer: It is 
+sst5_prompt_D_rating_question,SST-5,test,5,0.14027149321266968,0.0762324203660042,macro,2.22,Question: How would you rate this movie review? Answer: It is 
